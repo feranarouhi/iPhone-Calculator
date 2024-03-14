@@ -12,6 +12,8 @@ A simple clone of the iPhone calculator built using HTML, CSS, and JavaScript.
 ## Usage
 
 1. Clone the repository:
+   Open the index.html file in your preferred web browser.
+   Start using the calculator by clicking the buttons or using your keyboard.
 
 <img width="523" alt="iPhone calculator" src="https://github.com/feranarouhi/iPhone-Calculator/assets/124641424/b820e1a2-04ad-4b81-8b01-84c19cd60e3a">
 
